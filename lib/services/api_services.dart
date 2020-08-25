@@ -42,7 +42,7 @@ import 'package:http/http.dart' as http;
 Future<List<Article>> getNews() async {
   List<Article> list;
   final response = await http.get(
-      'http://newsapi.org/v2/top-headlines?country=id&category=health&apiKey=d920475c5b034095bbf7c064c780742d');
+      'http://newsapi.org/v2/top-headlines?country=id&category=health&apiKey=YOUR_API_KEY');
   if (response.statusCode == 200) {
     var data = json.decode(response.body);
     var rest = data["articles"] as List;
