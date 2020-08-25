@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941167745504",
+    "firebase_url": "https://basmicorona-f9a6f.firebaseio.com",
+    "project_id": "basmicorona-f9a6f",
+    "storage_bucket": "basmicorona-f9a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941167745504:android:66d12a4024bbe2e9af3385",
+        "android_client_info": {
+          "package_name": "com.example.basmicorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941167745504-dbg5roct6o182oee4a3r6gs00jpjc3ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGt_oLdpNMkjrPeg0sAv69wlm9rZUHxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941167745504-dbg5roct6o182oee4a3r6gs00jpjc3ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
